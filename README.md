@@ -40,7 +40,7 @@ to
 8. Change the tag into "latest"
 9. Click install
 
-## Feedback
+## Notes
 
 You can change it depending on your need and preference
 
