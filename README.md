@@ -38,7 +38,12 @@ to
 ```
 7. Rename the container to a name that is not yet in use
 8. Change the tag into "latest"
-9. Click install
+9. Change the title
+10. Make a new directory folder with two folders named "app" and "mysql"
+11. Change the web directory to the "app" folder that you already create
+12. Change the db directory to the "mysql" folder that you already create
+13. Click install
+14. Good luck
 
 ## Notes
 
