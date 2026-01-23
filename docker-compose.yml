@@ -28,5 +28,12 @@ services:
       - db
 
   # UBAH PORTS KE PORTS YANG BELUM DIPAKAI
-  # CONTOH     ports:
-      # - "6969:80" 
+  # CONTOH
+    # web
+    #  ports:
+      # - "701:80"
+    # adminer
+    #  ports:
+    #   - "9701:8080"
+  # Ubah nama Container Name 
+  # Ubah Tag menjadi Latest
