@@ -212,6 +212,7 @@
     .title{
         margin: auto;
         justify-self: center;
+        white-space: nowrap;
     }
 
 
