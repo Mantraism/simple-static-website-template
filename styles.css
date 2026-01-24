@@ -11,46 +11,52 @@
         margin: 0px;
         padding: 0px;
     }
-
+    
     /* SELECTION */
-
+    
     ::selection {
         color: red;
         background: yellow;
     }
-
+    
     /*  LINK */
-
+    
     a:link {
         color: rgb(0, 0, 0);
         background-color: transparent;
         text-decoration: none;
     }
-
+    
     a:visited {
         color: rgb(2, 111, 255);
         background-color: transparent;
         text-decoration: none;
     }
-
+    
     a:hover {
         color: yellow;
         background-color: transparent;
         text-decoration: underline;
     }
-
+    
     a:active {
         color: rgb(0, 43, 11);
         background-color: transparent;
         text-decoration: underline;
     }
-
-
+    
+    
     /* TOP NAVIGATION */
-    .navbar{
+    .navbar {
+        text-align: center;
         color: black;
+        width: 100%;
+        margin: auto;
+        padding-block-start: 10px;
+        padding-block-end: 10px;
+        background-color: aqua;
     }
-
+    
     nav{
         color: rgb(0, 0, 0);
     }
@@ -214,17 +220,7 @@
         justify-self: center;
         white-space: nowrap;
     }
-
-
-    .navbar {
-        text-align: center;
-        width: 100%;
-        margin: auto;
-        padding-block-start: 10px;
-        padding-block-end: 10px;
-        background-color: aqua;
-    }
-
+    
 
      /* RUNNING TEXT */
     .wrapper {
