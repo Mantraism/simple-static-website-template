@@ -190,7 +190,6 @@
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
             background-color: white;
-            border-bottom: solid;
             height: fit-content;
             width: 100%;
     }
