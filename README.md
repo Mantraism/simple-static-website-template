@@ -43,7 +43,8 @@ to
 11. Change the web directory to the "app" folder that you already create
 12. Change the db directory to the "mysql" folder that you already create
 13. Click install
-14. Good luck
+14. Clone this repository to the "app" folder
+15. Done and Good luck
 
 ## Notes
 
